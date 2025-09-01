@@ -1,4 +1,4 @@
-Personal Portfolio Website
+My Personal Portfolio Website
 This is a personal portfolio website built with HTML, CSS, and JavaScript. It showcases various sections, including skills,
 hobbies, projects, and contact information, along with an interactive, responsive design. The website adjusts to different 
 screen sizes using media queries and includes smooth scrolling and a fixed navigation bar.
